@@ -2,7 +2,7 @@
 An online muliplayer game based on the IITD campus developed using SDL2 library in C++
 
 
->commands to install sdl library and packages
+# commands to install sdl library and packages
 
 sudo apt-get install libsdl2-dev
 
