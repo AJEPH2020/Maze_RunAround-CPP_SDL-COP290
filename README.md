@@ -1,7 +1,6 @@
 # Maze_RunAround-CPP_SDL-COP290
 An online muliplayer game based on the IITD campus developed using SDL2 library in C++
 
-# GameDevTut
 
 >commands to install sdl library and packages
 
