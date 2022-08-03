@@ -15,4 +15,4 @@ An online muliplayer game based on the IITD campus developed using SDL2 library 
 >sudo apt-get install libsdl2-net-dev
 
 # Run
-just call makefile to run :)
+Just call makefile to run :)
