@@ -13,3 +13,6 @@ An online muliplayer game based on the IITD campus developed using SDL2 library 
 >sudo apt-get install libsdl2-mixer-dev
 
 >sudo apt-get install libsdl2-net-dev
+
+# Run
+just call makefile to run :)
